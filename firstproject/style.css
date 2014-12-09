@@ -1,0 +1,35 @@
+/* Enter your custom CSS here */
+* {
+    color: #666666;
+    font-family: "Lucida Grande", sans-serif;
+}
+p, li {
+	font-size: 16px;
+	line-height: 32px;
+	font-weight: 300;
+}
+h1 {
+    font-size: 60px;
+    padding: .5em 0;
+    font-weight: lighter;
+    letter-spacing: 3px;
+
+}
+h2 {
+    color: #F07C17;
+    font-size: 24px;
+    font-weight: bold;
+}
+.border {
+    border: 1px solid #cccccc;
+}
+.padding {
+    padding: 2em;
+}
+.margin-top {
+	margin-top: 2em;
+}
+
+.no-margin {
+	margin:0 0 0 0;
+}

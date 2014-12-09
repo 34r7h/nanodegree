@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+img {
+	width:100%;
+}
+h1 {
+	color: white;
+	background: #33bebe;
+	padding: 25px 0 0 15px;
+	font-family: sans-serif;
+	font-weight: 500;
+}
+.app {
+	display: flex;
+}
+.description {
+	color: #7c8888;
+	max-width: 60%
+}
+.screenshot {
+	max-width: 40%;
+	padding-right: 1em;
+}
+
+a {
+	color: darkblue;
+}
+
